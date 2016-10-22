@@ -74,4 +74,4 @@ And of course we are going to make use of crowd funding and sourcing, and privat
 
 Asgardia’s technical, legal and philosophical team is in the process of being set up."
 
-3.Basic pilosophy of flag depending on the concept：
+##3.Basic pilosophy of flag depending on the concept：
